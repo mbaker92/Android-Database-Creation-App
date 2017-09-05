@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="Enter Category"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/categoryField" />
+    <TextView
+        android:text="Enter a Question"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/questionField" />
+    <TextView
+        android:text="Enter an Answer"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/answerField" />
+    <Button
+        android:text="Add to Database"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addToDB" />
+    <Button
+        android:text="Create Database"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/createButton" />
+</LinearLayout>

@@ -1,0 +1,23 @@
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\Android Database Creation App.dll
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\Android Database Creation App.pdb
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\Android_Database_Creation_App.Android_Database_Creation_App.apk
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\Android_Database_Creation_App.Android_Database_Creation_App-Signed.apk
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\SQLite-net.dll
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\SQLite-net.pdb
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\SQLite-net.xml
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\obj\Debug\Android Database Creation App.csprojResolveAssemblyReference.cache
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\obj\Debug\Android Database Creation App.csproj.CoreCompileInputs.cache
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\obj\Debug\Android Database Creation App.dll
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\obj\Debug\Android Database Creation App.pdb
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\obj\Debug\android\bin\Android_Database_Creation_App.Android_Database_Creation_App.apk
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\obj\Debug\res\layout\main.xml
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\obj\Debug\res\values\strings.xml
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\obj\Debug\R.cs.flag
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\obj\Debug\uploadflags.txt
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\bin\Debug\Android Database Creation App.dll.mdb
+C:\Users\hackm\Documents\GitHub\Android Database Creation App\Android Database Creation App\obj\Debug\android\assets\Android Database Creation App.dll.mdb

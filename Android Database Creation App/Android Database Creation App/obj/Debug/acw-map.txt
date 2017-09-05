@@ -1,0 +1,4 @@
+Android_Database_Creation_App.MainActivity, Android Database Creation App;md502bb0ed9f461ed14bfb6d3e9096f032b.MainActivity
+Android_Database_Creation_App.MainActivity, Android Database Creation App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md502bb0ed9f461ed14bfb6d3e9096f032b.MainActivity
+Android_Database_Creation_App.MainActivity;md502bb0ed9f461ed14bfb6d3e9096f032b.MainActivity
+android_database_creation_app.MainActivity;md502bb0ed9f461ed14bfb6d3e9096f032b.MainActivity
